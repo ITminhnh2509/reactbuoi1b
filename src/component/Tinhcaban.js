@@ -7,6 +7,7 @@ export default function Tinhcaban() {
 
   return (
     <div>
+      <h2>Sửa lần 1</h2>
       <h1>Tính cơ bản: kết q = {kq}</h1>
       <label>Number 1:</label>
       <input
